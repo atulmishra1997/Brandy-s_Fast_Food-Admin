@@ -69,7 +69,7 @@ const Add = ({url}) => {
                         <select name='category' className='max-w-[120px] p-[10px] outline outline-2' onChange={onChangeHandler}>
                             <option value="Salad">Salad</option>
                             <option value="Rolls">Rolls</option>
-                            <option value="Desert">Desert</option>
+                            <option value="Desert">Deserts</option>
                             <option value="Sandwich">Sandwich</option>
                             <option value="Cake">Cake</option>
                             <option value="Pure-Veg">Pure Veg</option>
